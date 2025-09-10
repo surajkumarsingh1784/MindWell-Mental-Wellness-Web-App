@@ -22,7 +22,7 @@ function Testimonials() {
           </motion.h1>
         </Balancer>
 
-        <Balancer>
+        
         <motion.p
          {...animationSettings}
          transition={{ ...animationSettings.transition, delay: 0.4 }} 
@@ -32,7 +32,7 @@ function Testimonials() {
             wellness
           
         </motion.p>
-        </Balancer>
+       
       </div>
 
       {/* card components */}
